@@ -11,13 +11,6 @@ The dashboard provides a comprehensive, visual overview to understand **tourist 
 👉 **Click here to view the full interactive dashboard:**  
 **https://public.tableau.com/app/profile/jiya.haldankar/viz/goa_tourism_17550136851510/Dashboard1?publish=yes**
 
----
-
-## 🖼️ Dashboard Preview
-
-![Goa Tourism Dashboard Preview](dashboard.png)
-
-> *(Tip: Replace `dashboard.png` with your actual preview image name after you upload it to the repository.)*
 
 ---
 
