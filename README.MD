@@ -74,3 +74,21 @@ The dashboard provides a comprehensive, visual overview to understand **tourist 
 ---
 
 ## 📂 Repository Contents
+
+---
+
+## 🧑‍💻 Author
+
+**Jiya Haldankar**  
+Passionate about Data Analysis, Web Development, and Storytelling through Visuals.
+
+---
+
+## ⭐ Support
+
+If you like the dashboard, feel free to ⭐ the repository and share feedback!
+
+---
+
+
+
